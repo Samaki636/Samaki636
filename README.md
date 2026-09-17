@@ -2,7 +2,7 @@
 
 "When you realise a processor is a rock we tricked into thinking, you start to understand that progress is remarkably close to magic."
 
-### 👨‍💻 Su di me
+### 👨‍💻 About Me
 
 Sono uno studente del corso di Laurea Magistrale in Sicurezza Informatica, con una forte curiosità per la Software Security e la Data Protection.
 
