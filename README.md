@@ -41,19 +41,19 @@ Attualmente mi sto concentrando sulla sicurezza delle reti e sulla sicurezza del
 
 **Linguaggi**
 
-`[Python]` · `[Java]` · `[C/C++]` · `[JavaScript]` · `[Kotlin]` · `[Assembly]`
+`Python` · `Java` · `C/C++` · `JavaScript` · `Kotlin` · `Assembly`
 
 **Security**
 
-`[Linux]` · `[Windows]` · `[Wireshark]` · `[Nmap]` · `[Burp Suite]` · `[DevSecOps]`
+`Linux` · `Windows` · `Wireshark` · `Nmap` · `Burp Suite` · `DevSecOps`
 
 **Web & Backend**
 
-`[REST]` · `[SQL]` · `[Framework]` · `[Database]`
+`REST` · `SQL` · `Framework` · `Database`
 
 **Tools**
 
-`[Git]` · `[Docker]` · `[CI/CD]` · `[Eclipse]` · `[Visual Studio Code]` · `[PyCharm]` · `[IntelliJ]` · `[GitLab]` · `[Android Studio]`
+`Git` · `Docker` · `CI/CD` · `Eclipse` · `Visual Studio Code` · `PyCharm` · `IntelliJ` · `GitLab` · `Android Studio`
 
 ### 🚀 Progetti
 
