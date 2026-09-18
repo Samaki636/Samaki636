@@ -1,6 +1,6 @@
 # Ciao, sono Andrea 👋
 
-"When you realise a processor is a rock we tricked into thinking, you start to understand that progress is remarkably close to magic."
+"When you realise that a processor is a rock we tricked into thinking, you start to understand that technology is remarkably close to magic."
 
 ### 👨‍💻 About Me
 
